@@ -1,4 +1,5 @@
-###  Hi , I'm Ekram 🦋!
+![logo](https://cdn.dribbble.com/users/1990284/screenshots/6867620/ok-computer-dribbble.gif)
+ ###  Hi , I'm Ekram 🦋!
 👩🏻‍💻 full-stack developer deeply passionate about creating aesthetically pleasing websites and intuitive user interfaces🎀🪞🩰🦢🕯️</br>
 🖳 Currently studying digital development🚀 in [OFPPT](https://www.ofppt.ma/)</br>
 🖱️Currently diving into the world of [PHP](https://www.php.net/) </br>
