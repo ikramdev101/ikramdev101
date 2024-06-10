@@ -3,7 +3,7 @@
  <img align="right" width="200" src="https://i.pinimg.com/originals/dc/4d/f9/dc4df931eab16d3de9df5233b3018f42.gif"> </br>
 👩🏻‍💻 full-stack developer deeply passionate about creating aesthetically pleasing websites and intuitive user interfaces🎀🪞🩰🦢🕯️</br>
 🖳 Currently studying digital development🚀in  [OFPPT](ofppt.ma) </br>
-🖱️Currently diving into the world of [PHP](https://www.php.net/) </br>
+🖱️Currently diving into the world of [java](https://www.php.net/) </br>
 📊 digital marketer specializing in crafting engaging online campaigns and strategies for businesses</br>
 🦋 fusing my enthusiasm for digital development with diverse interests in my [DEV](https://dev.to/ekramfl)🦋</br></br></br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikramdev101&show_icons=true&theme=radical)</br></br></br>
