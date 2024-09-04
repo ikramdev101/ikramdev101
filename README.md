@@ -1,7 +1,7 @@
 ###   Hi , I'm Ekram 🦋!
 <img align="right" width="200" src="https://media.tenor.com/_Utilxgj8RUAAAAi/peach-goma-peach-and-goma.gif"> </br>
 👩🏻‍💻 full-stack developer deeply passionate about creating aesthetically pleasing websites and intuitive user interfaces🎀</br>
-🖳 Currently studying digital development🚀in  [OFPPT](ofppt.ma) </br>                                                                     🖱️Currently studying  [java](https://www.codecademy.com/learn/learn-java) </br>
+🖳 Currently studying digital development🚀in  [OFPPT](ofppt.ma) </br>                                                                     🖱️Currently studying  [JAVASCRIPT](https://www.codecademy.com/learn/learn-java) </br>
 📈Currently diving into the world of[ MERN STACK](https://gaper.io/mern-beginner-guide-to-full-stack/) </br>
 📊 digital marketer specializing in crafting engaging online campaigns and strategies for businesses</br>                                                                                  💬 Ask me about  php,Javascript, Python, Mysql... or anything here</br>
 🦋 fusing my enthusiasm for digital development with diverse interests in my [DEV](https://dev.to/ekramfl)</br></br>
